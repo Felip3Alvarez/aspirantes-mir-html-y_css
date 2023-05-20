@@ -1,0 +1,50 @@
+.container{
+color: white;
+font-family:Arial, Helvetica, sans-serifS
+}
+
+.container .box{
+   width: 300px;
+   height: 400px;
+   padding: 20px;
+   border-radius: 20px;
+   background: linear-gradient(#bd09b7,#6b4cf5);
+   margin: 0 auto;
+   
+}
+
+.container .box .titulo{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.container .box input{
+    padding: 7px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+.container .box label{
+    font-size: 20px;
+    }
+
+
+.container .box select{
+    padding: 7px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.container .box button{
+    padding:5px 15px 5px 15px;
+    float: right;
+    right: 0;
+
+}
+
+.container .box .cb{
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
